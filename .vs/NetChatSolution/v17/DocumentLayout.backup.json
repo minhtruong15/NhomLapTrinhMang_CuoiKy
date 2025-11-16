@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\netchatsolution\\netchatsolution\\netchatsolution\\netchatsolution\\clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\clientapp\\soundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\soundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\serverapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\netchatsolution\\netchatsolution\\netchatsolution\\netchatsolution\\clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\netchatsolution\\netchatsolution\\netchatsolution\\netchatsolution\\clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|c:\\users\\admin\\source\\repos\\netchatsolution\\netchatsolution\\netchatsolution\\netchatsolution\\serverapp\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\netchatsolution\\netchatsolution\\netchatsolution\\netchatsolution\\clientapp\\wavgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\wavgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\netchatsolution\\netchatsolution\\netchatsolution\\netchatsolution\\clientapp\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\netchatsolution\\netchatsolution\\netchatsolution\\netchatsolution\\clientapp\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\clientapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\clientapp\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\clientapp\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ChatForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatForm.cs",
+              "RelativeToolTip": "ClientApp\\ChatForm.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:44:44.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\LoginForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:20:01.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ChatForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\ChatForm.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:18:28.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\SoundHelper.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SoundHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\SoundHelper.cs",
+              "RelativeToolTip": "ClientApp\\SoundHelper.cs",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAqwAUCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:20:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ServerApp\\Database.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ServerApp\\Database.cs",
+              "RelativeToolTip": "ServerApp\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:52:05.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\AdminForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\AdminForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:38:15.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\AdminForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\AdminForm.cs",
+              "RelativeToolTip": "ClientApp\\AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:38:17.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ChatForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\ChatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:20:09.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ServerApp\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "ServerApp\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ServerApp\\ClientHandler.cs",
+              "RelativeToolTip": "ServerApp\\ClientHandler.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwOwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:34:31.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WavGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\WavGenerator.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WavGenerator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\WavGenerator.cs",
+              "RelativeToolTip": "ClientApp\\WavGenerator.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:35:09.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RoomForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\RoomForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RoomForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\RoomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:34:20.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatClient.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\ChatClient.cs",
+              "RelativeToolTip": "ClientApp\\ChatClient.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:20:01.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "ClientApp\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\DatabaseManager.cs",
+              "RelativeToolTip": "ClientApp\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:41:27.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
