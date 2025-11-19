@@ -47,4 +47,4 @@
 ## 🔧 Ghi chú
 
 -   Chuỗi kết nối MySQL nằm trong: **ServerApp/Database.cs**
--   Sử dụng **MEDIUMTEXT** để lưu tin nhắn dài hoặc ảnh Base64.
+-   Sử dụng **MEDIUMTEXT** để lưu tin nhắn dài 
