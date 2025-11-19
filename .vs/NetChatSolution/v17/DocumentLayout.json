@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\minhtruong15\\nhomlaptrinhmang_cuoiky\\clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|c:\\users\\admin\\source\\repos\\nhomlaptrinhmang_cuoiky\\clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\serverapp\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\serverapp\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\soundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\soundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\soundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\serverapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\serverapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B379EFC-FEBA-43ED-8B46-14DC378BCFCC}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\wavgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\wavgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\wavgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\clientapp\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\clientapp\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49063EB2-C131-4593-9FD9-A5633429159C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -100,10 +100,10 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RoomForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\RoomForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\RoomForm.cs",
               "RelativeDocumentMoniker": "ClientApp\\RoomForm.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RoomForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RoomForm.cs [Design]",
+              "RelativeToolTip": "..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RoomForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T16:34:20.63Z"
             },
@@ -111,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ChatForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs",
               "RelativeDocumentMoniker": "ClientApp\\ChatForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs [Design]",
               "RelativeToolTip": "ClientApp\\ChatForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T15:20:09.044Z",
@@ -123,10 +123,10 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\AdminForm.cs",
               "RelativeDocumentMoniker": "ClientApp\\AdminForm.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\AdminForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\AdminForm.cs [Design]",
+              "RelativeToolTip": "..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\AdminForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T16:38:15.089Z"
             },
@@ -134,9 +134,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ClientHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ServerApp\\ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ServerApp\\ClientHandler.cs",
               "RelativeDocumentMoniker": "ServerApp\\ClientHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ServerApp\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ServerApp\\ClientHandler.cs",
               "RelativeToolTip": "ServerApp\\ClientHandler.cs",
               "ViewState": "AgIAANsAAAAAAAAAAAAQwPcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,9 +146,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ChatForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs",
               "RelativeDocumentMoniker": "ClientApp\\ChatForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.cs",
               "RelativeToolTip": "ClientApp\\ChatForm.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAYwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,10 +159,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\RegisterForm.cs",
               "RelativeDocumentMoniker": "ClientApp\\RegisterForm.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\RegisterForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T00:59:31.853Z"
             },
@@ -170,10 +170,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\LoginForm.cs",
               "RelativeDocumentMoniker": "ClientApp\\LoginForm.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\LoginForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\NetChatSolution\\NetChatSolution\\NetChatSolution\\ClientApp\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T00:59:23.973Z"
             },
@@ -181,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ChatForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.Designer.cs",
               "RelativeDocumentMoniker": "ClientApp\\ChatForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatForm.Designer.cs",
               "RelativeToolTip": "ClientApp\\ChatForm.Designer.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAYwAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,9 +193,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "ClientApp\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\LoginForm.Designer.cs",
               "RelativeToolTip": "ClientApp\\LoginForm.Designer.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,9 +205,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "SoundHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\SoundHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\SoundHelper.cs",
               "RelativeDocumentMoniker": "ClientApp\\SoundHelper.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\SoundHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\SoundHelper.cs",
               "RelativeToolTip": "ClientApp\\SoundHelper.cs",
               "ViewState": "AgIAAOwBAAAAAAAAAAAqwAUCAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,9 +217,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ServerApp\\Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ServerApp\\Database.cs",
               "RelativeDocumentMoniker": "ServerApp\\Database.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ServerApp\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ServerApp\\Database.cs",
               "RelativeToolTip": "ServerApp\\Database.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,9 +229,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AdminForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\AdminForm.cs",
               "RelativeDocumentMoniker": "ClientApp\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\AdminForm.cs",
               "RelativeToolTip": "ClientApp\\AdminForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,9 +241,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "WavGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\WavGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\WavGenerator.cs",
               "RelativeDocumentMoniker": "ClientApp\\WavGenerator.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\WavGenerator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\WavGenerator.cs",
               "RelativeToolTip": "ClientApp\\WavGenerator.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ChatClient.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatClient.cs",
               "RelativeDocumentMoniker": "ClientApp\\ChatClient.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\ChatClient.cs",
               "RelativeToolTip": "ClientApp\\ChatClient.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,9 +265,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "ClientApp\\DatabaseManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\minhtruong15\\NhomLapTrinhMang_CuoiKy\\ClientApp\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NhomLapTrinhMang_CuoiKy\\ClientApp\\DatabaseManager.cs",
               "RelativeToolTip": "ClientApp\\DatabaseManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

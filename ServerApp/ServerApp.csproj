@@ -116,6 +116,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Resources.Designer.cs">
+      <Link>Properties\Resources.Designer.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Settings.Designer.cs">
+      <Link>Properties\Settings.Designer.cs</Link>
+    </Compile>
     <Compile Include="ClientHandler.cs" />
     <Compile Include="Database.cs" />
     <Compile Include="Program.cs" />
@@ -127,28 +133,16 @@
     <Compile Include="ServerMainForm.Designer.cs">
       <DependentUpon>ServerMainForm.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
+    <EmbeddedResource Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Resources.resx">
+      <Link>Properties\Resources.resx</Link>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="ServerMainForm.resx">
       <DependentUpon>ServerMainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="packages.config" />
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    <None Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Settings.settings">
+      <Link>Properties\Settings.settings</Link>
     </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
