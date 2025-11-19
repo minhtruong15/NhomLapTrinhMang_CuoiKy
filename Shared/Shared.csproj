@@ -103,6 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Command.cs" />
+    <Compile Include="MessageContent.cs" />
     <Compile Include="Models.cs" />
     <Compile Include="Net.cs" />
     <Compile Include="Packet.cs" />
