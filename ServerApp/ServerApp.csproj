@@ -116,12 +116,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Resources.Designer.cs">
-      <Link>Properties\Resources.Designer.cs</Link>
-    </Compile>
-    <Compile Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Settings.Designer.cs">
-      <Link>Properties\Settings.Designer.cs</Link>
-    </Compile>
     <Compile Include="ClientHandler.cs" />
     <Compile Include="Database.cs" />
     <Compile Include="Program.cs" />
@@ -133,15 +127,9 @@
     <Compile Include="ServerMainForm.Designer.cs">
       <DependentUpon>ServerMainForm.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Resources.resx">
-      <Link>Properties\Resources.resx</Link>
-    </EmbeddedResource>
     <EmbeddedResource Include="ServerMainForm.resx">
       <DependentUpon>ServerMainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="..\..\..\..\downloads\nhom7_laptrinhungdungchat\serverapp\properties\Settings.settings">
-      <Link>Properties\Settings.settings</Link>
-    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
